@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1720767414,
+      "filename": "lineage-21.0-20240712-UNOFFICIAL-.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 926532689,
+      "url": "https://github.com/zeelog/OTA/releases.zip",
+      "version": "21.0"
+    }
+  ]
+}
